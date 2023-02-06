@@ -75,7 +75,7 @@ Q19: “**What is the name of the bridge on which Gandalf faces the balrog of Mo
 
 A: “Khazad-Dum”, “Khazad Dum”
 
-Q20: “**Who is the lord of Caras Galadhon?” 
+Q20: “**Who is the lord of Caras Galadhon?**” 
 
 A: “Celeborn”
 
