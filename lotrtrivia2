@@ -1,117 +1,88 @@
-Q “**What is the name of the Balrog dwelling deep below the mines of Moria?**”
+q “**What is the name of the Balrog dwelling deep below the mines of Moria?**”
+a “Durin’s Bane”, “durins bane“
 
-A “Durin’s Bane”
+q “**Apart from the Witch King, who is the other named Nazgûl?**”
+a “Khamûl the Easterling”, “Khamul the Easterling”, “Khamul“
 
-Q “**Apart from the Witch King, who is the other named Nazgûl?**”
+q “**Which of the 3 breeds of hobbits was Sméagol born to?**”
+a “Stoors”
 
-A “Khamûl the Easterling”
+q “**Finish the quote: Tonight we remember those who gave their blood to defend this country… (4 words)**”
+a “Hail the victorious dead”
 
-Q “**Which of the 3 breeds of hobbits was Sméagol born to?**”
+q “**By which name did Elrond give to Aragorn when he was fostered at Rivendell?**”
+a “Estel”
 
-A “Stoors”
+a “**Gandalf tells Frodo to meet him at the Prancing Pony in which village?**”
+a “Bree” 
 
-Q “**Finish the quote: Tonight we remember those who gave their blood to defend this country… (4 words)**”
+q “**What was the first capital city of Gondor, containing the famous Dome of Stars?**”
+a “Osgiliath”
 
-A “Hail the victorious dead”
+q “**Which captain of Cirith Ungol started a fight over coveting Frodo’s mithril shirt?**”
+a “Shagrat”
 
-Q “**By which name did Elrond give to Aragorn when he was fostered at Rivendell?**”
+q “**What is the name of the Second Marshall of Rohan and King Théoden's only son?**”
+a “Théodred”, “Theodred“
 
-A “Estel”
-
-Q “**Gandalf tells Frodo to meet him at the Prancing Pony in which village?**”
-
-A “Bree” 
-
-Q “**What was the first capital city of Gondor, containing the famous Dome of Stars?**”
-
-A “Osgiliath”
-
-Q “**Which captain of Cirith Ungol started a fight over coveting Frodo’s mithril shirt?**”
-
-A “Shagrat”
-
-Q “**What is the name of the Second Marshall of Rohan and King Théoden's only son?**”
-
-A “Théodred”
-
-Q “**What is Gimli’s final kill count after the battle for Helms Deep?**”
-
-A “43”
+q “**What is Gimli’s final kill count after the battle for Helms Deep?**”
+a “43”
 
 
-Q “**Weathertop, the watchtower in which Frodo was stabbed by the Witch-King is also known by which name?**”
+q “**Weathertop, the watchtower in which Frodo was stabbed by the Witch-King is also known by which name?**”
+a “Amon Sûl”, "Amon Sul"
 
-A “Amon Sûl”, "Amon Sul"
+q “**Which Dwarf left the Lonely Mountain to re-establish a dwarf presence in Moria?**”
+a “Balin"
 
-Q “**Which Dwarf left the Lonely Mountain to re-establish a dwarf presence in Moria?**”
+q “**This forest was the greatest of Middle Earth and was home to giant spiders and King Thranduil’s wood-elf kingdom**”
+a “Mirkwood”
 
-A “Balin”
+q “**Which beast were most commonly used by orcs as mounts in battle?**”
+a “Wargs”
 
-Q “**This forest was the greatest of Middle Earth and was home to giant spiders and King Thranduil’s wood-elf kingdom**”
+q “**Which dwarven kingdom does Thorin Oakenshield seek to reclaim from the dragon Smaug?**”
+a “Erebor”
 
-A “Mirkwood”
+q “**After obtaining the Ring for the first time, how many years did Gollum have it for before losing it?**”
+a “500”, “five hundred“
 
-Q “**Which beast were most commonly used by orcs as mounts in battle?**”
+q “**What name does Frodo use when waiting for Gandalf at the prancing pony?**”
+a “Underhill”
 
-A “Wargs”
+q “**What is the name of the ancestral sword King Theoden wields in battle?**”
+a “Herugrim”
 
-Q “**Which dwarven kingdom does Thorin Oakenshield seek to reclaim from the dragon Smaug?**”
+q “**What is the name of the bridge on which Gandalf faces the balrog of Moria**?”
+a “Khazad-Dum”, “Khazad Dum”
 
-A “Erebor”
+q “**Who is the lord of Caras Galadhon?**” 
+a “Celeborn”
 
-Q “**After obtaining the Ring for the first time, how many years did Gollum have it for before losing it?**”
+q “**What language is most commonly spoken by the elves during the third age?**”
+a “Sindarin”
 
-A “500”
+q “**Who said it: “The very air you breath is a poisonous fume.**”
+a “Boromir”
 
-Q “**What name does Frodo use when waiting for Gandalf at the prancing pony?**”
+q “**What species did Saruman use as spies to watch the south after joining forces with Sauron?**”
+a “Crebain from Dunland”
 
-A “Underhill”
+q “**The Watcher in the Water is responsible for the death of which member of Thorin Oakenshield's company during the recolonization of Moria?**”
+a “Oin”
 
-Q “**What is the name of the ancestral sword King Theoden wields in battle?**”
+q “**Who said it: Do not be too eager to deal out death and judgment, even the very wise cannot see all ends**”
+a “Gandalf” 
 
-A “Herugrim”
+q “**Complete the quote: if in doubt Meriadoc, always follow… (2 words)**”
+a ”Your nose”
 
-Q “**What is the name of the bridge on which Gandalf faces the balrog of Moria**?”
+q “**Complete the quote: behold the great realm and dwarf city of…(one word)**”
+a “Dwarrowdelf”
 
-A “Khazad-Dum”, “Khazad Dum”
+q “**What is gandalfs original name?**”
+a “Olorin”
 
-Q “**Who is the lord of Caras Galadhon?**” 
-
-A “Celeborn”
-
-Q “**What language is most commonly spoken by the elves during the third age?**”
-
-A “Sindarin”
-
-Q “**Who said it: “The very air you breath is a poisonous fume.**”
-
-A “Boromir”
-
-Q “**What species did Saruman use as spies to watch the south after joining forces with Sauron?**”
-
-A “Crebain from Dunland”
-
-Q “**The Watcher in the Water is responsible for the death of which member of Thorin Oakenshield's company during the recolonization of Moria?**”
-
-A “Oin”
-
-Q “**Who said it: Do not be too eager to deal out death and judgment, even the very wise cannot see all ends**”
-
-A “Gandalf”
-
-Q “**Complete the quote: if in doubt Meriadoc, always follow… (2 words)**”
-
-A “Your nose”
-
-Q “**Complete the quote: behold the great realm and dwarf city of…(one word)**”
-
-A “Dwarrowdelf”
-
-Q “**What is gandalfs original name?**”
-
-A “Olorin”
-
-Q “**Which characters name translates to “Star-Dome” in Sindarin?**”
-
-A “Elrond” 
+q “**Which characters name translates to “Star-Dome” in Sindarin?**”
+a ”Elrond” 
 
