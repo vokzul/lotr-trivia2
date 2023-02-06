@@ -26,7 +26,7 @@ q “**What is the name of the Second Marshall of Rohan and King Théoden's only
 a “Théodred”, “Theodred“
 
 q “**What is Gimli’s final kill count after the battle for Helms Deep?**”
-a “43”
+a “43”, “forty three"
 
 q “**Weathertop, the watchtower in which Frodo was stabbed by the Witch-King is also known by which name?**”
 a “Amon Sûl”, "Amon Sul"
@@ -41,7 +41,7 @@ q “**Which beast were most commonly used by orcs as mounts in battle?**”
 a “Wargs”
 
 q “**Which dwarven kingdom does Thorin Oakenshield seek to reclaim from the dragon Smaug?**”
-a “Erebor”
+a “Erebor”, 
 
 q “**After obtaining the Ring for the first time, how many years did Gollum have it for before losing it?**”
 a “500”, “five hundred“
